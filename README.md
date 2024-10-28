@@ -1,5 +1,5 @@
 # **Spam Filter**
-A robust spam filter application designed to detect and filter spam messages. Utilizing regular expressions, this project aims to enhance email security and improve user experience by minimizing unwanted messages.
+A robust spam filter application designed to detect and filter spam messages. Utilizing regular expressions, this project aims to enhance message security and improve user experience by minimizing unwanted messages.
 
 ### **Table of Contents**
 - Overview
